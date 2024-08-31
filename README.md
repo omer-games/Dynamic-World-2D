@@ -48,7 +48,7 @@ The game uses the following built-in libraries:
 
 ## Configuration
 
-The game's configuration options are available in the `config.txt` file. Here you can adjust various gameplay settings to customize your experience.
+The game's configuration options are available in the main file. There you can adjust various gameplay settings to customize your experience.
 
 ## License
 
