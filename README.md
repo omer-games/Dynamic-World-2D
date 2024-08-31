@@ -1,34 +1,68 @@
-<p align="center"> <img src="URL_TO_YOUR_GAME_IMAGE" width="97" height="97"> </p> <p align="center"> <img src="http://ForTheBadge.com/images/badges/made-with-python.svg"> </p>
-Dynamic World 2D
-Dynamic World 2D is a minimalist 2D game that showcases procedural generation and interactivity. The game is designed with simplicity in mind, utilizing as few libraries as possible, only three essential ones. The game's world evolves based on the player's movements, ensuring a unique experience every time you play.
+<p align="center">
+  <img src="http://ForTheBadge.com/images/badges/made-with-c++.svg">
+</p>
 
-How it Works
-Dynamic World 2D leverages procedural generation to create a dynamic environment. As the player moves in different directions, the game generates new layers of the world that are different from the previous ones. Players can interact with the environment by placing and breaking blocks and even creating moving spikes.
+# Dynamic World 2D
 
-Features
-Procedural World Generation: The game world changes dynamically based on player movement, offering a unique experience each time.
-Minimalistic Design: Built with only three essential libraries, emphasizing simplicity and performance.
-Interactive Gameplay: Players can place and break blocks, creating custom landscapes. Additionally, they can create moving spikes to alter the game's challenge.
-How to Use
-Clone the Repository:
+Dynamic World 2D is a C++ game that creates an ever-changing environment. As the player moves in different directions, the world dynamically generates new layers. Players can interact with the world by placing and breaking blocks, and even create moving spikes.
 
-bash
-Copy code
-git clone https://github.com/your-username/Dynamic-World-2D.git
-Install Dependencies:
+## How it Works
 
-bash
-Copy code
-pip install -r requirements.txt
-Run the Game:
+In Dynamic World 2D, the game world changes based on the player's movement. Each time the player moves left or right, a new layer is generated, and it's different each time even if the player retraces their steps. The game emphasizes minimal library usage, relying on just three essential libraries to deliver its dynamic environment and interactive features.
 
-bash
-Copy code
-python dynamic_world_2d.py
-Explore the world, place and break blocks, and create moving spikes to shape your environment.
+## Features
 
-Configuration
-Adjust game settings and parameters in the config.txt file to customize your experience. Experiment with different configurations to see how they affect the world generation and gameplay.
+- Dynamic world generation based on player movement.
+- Interaction capabilities to place and break blocks.
+- Ability to create moving spikes.
 
-Developer
+## How to Use
+
+1. **Clone the Repository:**
+
+    ```bash
+    git clone https://github.com/omer-games/Dynamic-World-2D.git
+    ```
+
+2. **Build the Game:**
+
+    Navigate to the project directory and run:
+
+    ```bash
+    make
+    ```
+
+3. **Run the Game:**
+
+    ```bash
+    ./DynamicWorld2D
+    ```
+
+## Keys
+
+- **W**: Jump
+- **A**: Move left
+- **D**: Move right
+- **X**: Place block
+- **P**: Create moving spike
+- **M**: Break block
+
+## Libraries
+
+The game uses the following built-in libraries:
+
+- `<iostream>`
+- `<thread>`
+- `<Windows.h>`
+
+## Configuration
+
+The game's configuration options are available in the `config.txt` file. Here you can adjust various gameplay settings to customize your experience.
+
+## License
+
+See the `LICENSE` file for licensing information.
+
+## Developer
+
 Omer-Games
