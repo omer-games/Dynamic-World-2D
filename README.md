@@ -18,25 +18,16 @@ In Dynamic World 2D, the game world changes based on the player's movement. Each
 
 ## How to Use
 
-1. **Clone the Repository:**
+1. **Download the Game:**
 
-    ```bash
-    git clone https://github.com/omer-games/Dynamic-World-2D.git
-    ```
+   Download the precompiled executable from the [releases page](https://github.com/your-username/DynamicWorld2D/releases).
 
-2. **Build the Game:**
+2. **Run the Game:**
 
-    Navigate to the project directory and run:
+   Navigate to the directory where the executable is located and run:
 
-    ```bash
-    make
-    ```
-
-3. **Run the Game:**
-
-    ```bash
-    ./DynamicWorld2D
-    ```
+   ```bash
+   ./DynamicWorld2D
 
 ## Keys
 
