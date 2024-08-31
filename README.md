@@ -3,7 +3,7 @@ Dynamic World 2D
 Dynamic World 2D is a minimalist 2D game that showcases procedural generation and interactivity. The game is designed with simplicity in mind, utilizing as few libraries as possible, only three essential ones. The game's world evolves based on the player's movements, ensuring a unique experience every time you play.
 
 How it Works
-Dynamic World 2D leverages procedural generation to create a dynamic environment. As the player moves in different directions, the game generates new layers of the world that are different from the previous ones. Players can interact with the environment by placing and breaking blocks and even creating moving spikes, adding a layer of strategy to the gameplay.
+Dynamic World 2D leverages procedural generation to create a dynamic environment. As the player moves in different directions, the game generates new layers of the world that are different from the previous ones. Players can interact with the environment by placing and breaking blocks and even creating moving spikes.
 
 Features
 Procedural World Generation: The game world changes dynamically based on player movement, offering a unique experience each time.
