@@ -27,7 +27,7 @@ In Dynamic World 2D, the game world changes based on the player's movement. Each
    Navigate to the directory where the executable is located and run:
 
    ```bash
-   ./DynamicWorld2D
+   ./Dynamic-World-2D
 
 ## Keys
 
