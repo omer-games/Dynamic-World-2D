@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="http://ForTheBadge.com/images/badges/made-with-c++.svg">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"  width="100" height="100">
 </p>
 
 # Dynamic World 2D
