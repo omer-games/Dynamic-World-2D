@@ -20,7 +20,7 @@ In Dynamic World 2D, the game world changes based on the player's movement. Each
 
 1. **Download the Game:**
 
-   Download the precompiled executable from the [releases page](https://github.com/your-username/DynamicWorld2D/releases).
+   Download the precompiled executable from the [releases page](https://github.com/omer-games/Dynamic-World-2D/Dynamic-World-2D.cpp).
 
 2. **Run the Game:**
 
