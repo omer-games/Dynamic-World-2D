@@ -52,7 +52,7 @@ The game's configuration options are available in the main file. There you can a
 
 ## License
 
-See the `LICENSE` file for licensing information.
+See the [LICENSE](LICENSE.txt) file for licensing information.
 
 ## Developer
 
